@@ -8,7 +8,7 @@ for(i=1;i<=1000;i++)
 {
 if(a%i==0)
 {
-printf("%d",i);
+printf("The Factors are %d\n",i);
 }
 }
 }
